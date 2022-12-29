@@ -19,7 +19,8 @@
 *.so
 *.so.*
 
-
+#Vscode
+.vscode/
 
 # Binary files
 onvif_srvd
